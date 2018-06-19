@@ -1,0 +1,19 @@
+{
+  "name": "ast-presentation",
+  "version": "1.0.0",
+  "description": "AST - ESLint and Babel presentation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "AST",
+    "ESLint",
+    "Babel"
+  ],
+  "author": "Salman Tariq Mirza",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^4.19.1"
+  }
+}
